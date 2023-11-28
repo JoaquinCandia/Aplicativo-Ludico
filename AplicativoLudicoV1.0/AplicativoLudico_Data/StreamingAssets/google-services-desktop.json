@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "396741874847",
+    "project_id": "bdcuentas-d66e9",
+    "storage_bucket": "bdcuentas-d66e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396741874847:android:e6da94421d2a671002beaa",
+        "android_client_info": {
+          "package_name": "com.unity.Aplicativo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZU5UDW_dbXo9hm_xXelOxOxkVhzsxRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396741874847:android:73f01b1e5f3fab1302beaa",
+        "android_client_info": {
+          "package_name": "com.unity.AplicativoLudico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZU5UDW_dbXo9hm_xXelOxOxkVhzsxRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
